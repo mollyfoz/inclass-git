@@ -12,4 +12,13 @@ html, body, h1, p, div {
   width: 100%;
 }
 
+body {
+  background: #888;
+  font-family: monospace;
+}
+
 /*MAIN STYLES*/
+
+p {
+  color: coral;
+}
