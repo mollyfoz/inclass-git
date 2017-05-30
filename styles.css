@@ -5,9 +5,11 @@
   box-sizing: border-box;
 }
 
-div, html, body {
+html, body, h1, p, div {
   margin: 0;
   padding: 0;
+  height: 100%;
+  width: 100%;
 }
 
 /*MAIN STYLES*/
